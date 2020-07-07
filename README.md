@@ -120,7 +120,7 @@ Se calcula la Tasa de error de bits (BER, bit error rate) para el vector BER
 BER = err/N
 
 ### Pregunta#6 Graficar BER versus SNR.
-![Imagen1](https://github.com/Edwin-SB/Tarea4_MPSS/blob/master/PSD1.png)
+![Imagen1](https://github.com/Edwin-SB/Tarea4_MPSS/blob/master/BERvsSNR.png)
 
 
 
